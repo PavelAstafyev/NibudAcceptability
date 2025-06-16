@@ -1,0 +1,13 @@
+group,type,sentence_id,sentence,condition,lexicalization
+A,stimulus,SE1,"Маша загадала какое-нибудь число.",episodic,1
+A,stimulus,SE2,"Маша спела какую-нибудь песню.",episodic,2
+B,stimulus,SE3,"Маша показала какой-нибудь фокус.",episodic,3
+B,stimulus,SE4,"Маша рассказала какой-нибудь анекдот.",episodic,4
+B,stimulus,SQ1,"Каждый участник конкурса загадал какое-нибудь число.",quantified,1
+A,stimulus,SQ2,"Каждый участник конкурса спел какую-нибудь песню.",quantified,2
+A,stimulus,SQ3,"Каждый участник конкурса показал какой-нибудь фокус.",quantified,3
+B,stimulus,SQ4,"Каждый участник конкурса рассказал какой-нибудь анекдот.",quantified,4
+B,stimulus,SM1,"Катя должна загадать какое-нибудь число.",modalized,1
+B,stimulus,SM2,"Катя должна спеть какую-нибудь песню.",modalized,2
+A,stimulus,SM3,"Катя должна показать какой-нибудь фокус.",modalized,3
+A,stimulus,SM4,"Катя должна рассказать какой-нибудь анекдот.",modalized,4
